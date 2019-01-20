@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build:demo": "fiddly"
+    "build:demo": "fiddly",
+    "lint:md" : "fiddly lint",
+    "deploy" : "fiddly deploy"
   },
   "devDependencies": {
     "fiddly": "^0.8.0"
