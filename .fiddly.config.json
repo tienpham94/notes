@@ -1,5 +1,4 @@
 {
-  "logo": "./logo.png",
   "favicon": "./logo.ico",
   "darkTheme": false,
   "additionalFiles": ["./Graphql.md"],
