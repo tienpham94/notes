@@ -1,0 +1,12 @@
+{
+  "name": "fiddly-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build:demo": "fiddly"
+  },
+  "devDependencies": {
+    "fiddly": "^0.8.0"
+  }
+}
