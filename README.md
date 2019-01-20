@@ -1,7 +1,1 @@
-testmd
-
-```js
-
-const tien = "autodzai"
-
-```
+Knowledge base of some stuff I would like to remember
