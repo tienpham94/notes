@@ -1,6 +1,6 @@
 {
   "favicon": "./logo.ico",
   "darkTheme": false,
-  "additionalFiles": ["./Graphql.md"],
+  "additionalFiles": ["./src/graphql.md","./src/node.md"],
   "repo": "https://github.com/tienpham94/notes"
 }
